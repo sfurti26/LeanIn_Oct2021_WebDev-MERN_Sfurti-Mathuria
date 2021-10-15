@@ -1,2 +1,5 @@
 # LeanIn_Oct2021_WebDev-MERN_Sfurti-Mathuria
-This repo contains milestones for Web Development using MERN course under LeanIn BV community.
+Web Development using MERN Course Milestones | LeanIn_OCT2021
+
+This repository contains:\
+Milestone#1:To Do List using Local Storage\
