@@ -2,4 +2,4 @@
 Web Development using MERN Course Milestones | LeanIn_OCT2021
 
 This repository contains:\
-Milestone#1:To Do List using Local Storage\
+Milestone#1:To Do List using Local Storage
